@@ -7,6 +7,7 @@ Brigham Young University-Idaho student
 
 <div id="webaddress">
 <a href="cur18005@byui.edu">cur18005@byui.edu</a>
+405.547.0614</a>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
@@ -18,7 +19,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 3.7 Major GPA
 
 
-## Related Experience
+## Experience
 
 ### General Tutor
 
@@ -50,12 +51,12 @@ __Morehead Cinema 6__, Morehead, KY
 
 ## Leadership/Skills/Awards
 
--	National Honor Society, 2016-2018
--	Kentucky Ambassadors Honor Band, 2018
--	Trained in the Arbinger principles, 2022
--	QPR Certified, 2022
 -	Python Programming
 -	Advanced Excel Skills
+-	QPR Certified, 2022
+-	Trained in the Arbinger principles, 2022
+-	National Honor Society, 2016-2018
+-	Kentucky Ambassadors Honor Band, 2018
 
 
 <!-- ### Footer
