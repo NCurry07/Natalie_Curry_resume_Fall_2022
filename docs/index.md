@@ -7,7 +7,7 @@ Brigham Young University-Idaho student
 
 <div id="webaddress">
 <a href="cur18005@byui.edu">cur18005@byui.edu</a>
-<>405.547.0614</a>
+| >405.547.0614</a>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
